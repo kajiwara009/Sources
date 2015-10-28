@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PigDig</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name ="stageList">
+        <item>ステージ１</item>
+        <item>ステージ２</item>
+        <item>ステージ３</item>
+        <item>ステージ４</item>
+        <item>ステージ５</item>
+    </string-array>
+
+</resources>

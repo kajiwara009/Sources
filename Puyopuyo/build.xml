@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project name="kilab-tool" default="jar" basedir=".">
+
+	<!-- ****プロパティ**** -->
+	<!-- ソースファイルがあるディレクトリ -->
+	<property name="src.dir" value="./src"/>
+
+	<!-- クラスファイルを出力するディレクトリ -->
+	<property name="classes.dir" value="./bin"/>
+
+	<!-- javadocを出力するディレクトリ -->
+	<property name="javadoc.dir" value="./docs"/>
+
+	<!-- jarファイル名 -->
+	<property name="jar.name" value="./PuyoPuyo-YourName.jar"/>
+
+	<!-- ****ターゲット**** -->
+	<!-- jarファイルの作成 -->
+	<target name="jar" depends="compile">
+		<jar jarfile="${jar.name}" basedir="${classes.dir}"></jar>
+	</target>
+
+
+	<!-- コンパイル -->
+	<target name="compile">
+		<mkdir dir="${classes.dir}" />
+		<javac srcdir="${src.dir}" destdir="${classes.dir}"/>
+	</target>
+
+	<!-- javadocの作成 -->
+	<target name="javadoc">
+		<delete dir="${javadoc.dir}" />
+		<mkdir dir="${javadoc.dir}" />
+		<javadoc destdir="${javadoc.dir}" encoding="UTF-8" >
+			<fileset dir="${src.dir}"/>
+		</javadoc>
+	</target>
+
+	<!-- 生成したファイルやフォルダの削除 -->
+	<target name="clean">
+		<delete dir="${classes.dir}" />
+		<delete dir="${javadoc.dir}" />
+		<delete file="${jar.name}" />
+	</target>
+</project>

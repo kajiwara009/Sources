@@ -1,0 +1,5 @@
+games=100
+gameSets=20
+players=15
+cpu=5
+timelimit=500

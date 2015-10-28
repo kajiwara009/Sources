@@ -1,0 +1,60 @@
+0,status,1,VILLAGER,ALIVE,SampleRoleAssignPlayer
+0,status,2,VILLAGER,ALIVE,SampleRoleAssignPlayer
+0,status,3,POSSESSED,ALIVE,SampleRoleAssignPlayer
+0,status,4,WEREWOLF,ALIVE,MyRoleAssignPlayer
+0,status,5,MEDIUM,ALIVE,SampleRoleAssignPlayer
+0,status,6,SEER,ALIVE,SampleRoleAssignPlayer
+0,status,7,WEREWOLF,ALIVE,SampleRoleAssignPlayer
+0,status,8,VILLAGER,ALIVE,SampleRoleAssignPlayer
+0,status,9,BODYGUARD,ALIVE,SampleRoleAssignPlayer
+0,status,10,VILLAGER,ALIVE,SampleRoleAssignPlayer
+0,status,11,VILLAGER,ALIVE,SampleRoleAssignPlayer
+0,talk,0,11,VOTE Agent[03]
+0,talk,1,9,VOTE Agent[04]
+0,talk,2,1,VOTE Agent[03]
+0,talk,3,3,VOTE Agent[04]
+0,talk,4,8,VOTE Agent[07]
+0,talk,5,4,COMINGOUT Agent[04] SEER
+0,talk,6,5,VOTE Agent[01]
+0,talk,7,7,VOTE Agent[02]
+0,talk,8,10,VOTE Agent[01]
+0,talk,9,2,VOTE Agent[05]
+0,talk,10,6,VOTE Agent[04]
+0,whisper,0,7,Over
+0,whisper,1,4,Over
+0,talk,11,7,Over
+0,talk,12,1,Over
+0,talk,13,6,Over
+0,talk,14,8,Over
+0,talk,15,5,Over
+0,talk,16,9,Over
+0,talk,17,2,Over
+0,talk,18,11,Over
+0,talk,19,4,INQUESTED Agent[05] WEREWOLF
+0,talk,20,10,Over
+0,talk,21,3,Over
+0,whisper,2,4,Over
+0,whisper,3,7,Over
+0,talk,22,6,Over
+0,talk,23,1,Over
+0,talk,24,5,Over
+0,talk,25,2,Over
+0,talk,26,11,Over
+0,talk,27,9,Over
+0,talk,28,4,VOTE Agent[03]
+0,talk,29,7,Over
+0,talk,30,8,Over
+0,talk,31,3,Over
+0,talk,32,10,Over
+0,whisper,4,7,Over
+0,whisper,5,4,Over
+0,talk,33,9,Over
+0,talk,34,6,Over
+0,talk,35,2,Over
+0,talk,36,1,Over
+0,talk,37,11,Over
+0,talk,38,4,Over
+0,talk,39,5,Over
+0,whisper,6,4,Over
+0,whisper,7,7,Over
+0,divine,6,7,WEREWOLF

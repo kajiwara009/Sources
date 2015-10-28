@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="lib/InabaPlayerV2_1.jar"/>
+	<classpathentry kind="lib" path="lib/jsonic-1.3.2.jar"/>
+	<classpathentry kind="lib" path="lib/StrategyPlayer.jar"/>
+	<classpathentry kind="lib" path="lib/wasabi.jar"/>
+	<classpathentry kind="lib" path="cedec2015final/workspace/iace10442/ChipAgent/ChipAgent.jar"/>
+	<classpathentry kind="lib" path="cedec2015final/workspace/Satsuki/UploadTest/SatsukiJinro/SatukiJinro/jar/Run.jar"/>
+	<classpathentry kind="lib" path="cedec2015final/workspace/IPA/IPAWolf1-5.jar"/>
+	<classpathentry kind="lib" path="cedec2015final/workspace/yanagimati/yanagimati/yanagimati.jar"/>
+	<classpathentry kind="lib" path="cedec2015final/workspace/swingby/swing-by/myAgent.jar"/>
+	<classpathentry kind="lib" path="cedec2015final/workspace/lunch_break/AIWolf_final2.jar"/>
+	<classpathentry kind="lib" path="cedec2015final/workspace/pingwo/pingwo/jar/pingwo.jar"/>
+	<classpathentry kind="lib" path="cedec2015final/workspace/canvas/CanvasAgent0.0.2/jar/CanvasAgent.jar"/>
+	<classpathentry kind="lib" path="cedec2015final/workspace/itolab/ando-aiwolf-client.jar"/>
+	<classpathentry kind="lib" path="cedec2015final/workspace/GofukuLab/TakataAgent_ver025/jar/TakataAgent_ver025.jar"/>
+	<classpathentry kind="lib" path="cedec2015final/workspace/team_fenrir/gaugau/gaugau.jar"/>
+	<classpathentry kind="lib" path="cedec2015final/workspace/Central_Villager/NoriPlayer/NoriPlayer.jar"/>
+	<classpathentry kind="lib" path="cedec2015final/workspace/MegaWolf/lib/yusatk.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/AiWolfClient"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/AIWolfCommon"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/AIWolfServer"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/KajiwaraLibrary"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

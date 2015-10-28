@@ -1,0 +1,341 @@
+0,status,1,WEREWOLF,ALIVE,IPA
+0,status,2,VILLAGER,ALIVE,IPA
+0,status,3,BODYGUARD,ALIVE,IPA
+0,status,4,VILLAGER,ALIVE,IPA
+0,status,5,WEREWOLF,ALIVE,IPA
+0,status,6,VILLAGER,ALIVE,IPA
+0,status,7,SEER,ALIVE,IPA
+0,status,8,VILLAGER,ALIVE,IPA
+0,status,9,VILLAGER,ALIVE,IPA
+0,status,10,VILLAGER,ALIVE,IPA
+0,status,11,VILLAGER,ALIVE,IPA
+0,status,12,POSSESSED,ALIVE,IPA
+0,status,13,VILLAGER,ALIVE,IPA
+0,status,14,WEREWOLF,ALIVE,IPA
+0,status,15,MEDIUM,ALIVE,IPA
+0,talk,0,13,Skip
+0,talk,1,8,Skip
+0,talk,2,6,Skip
+0,talk,3,9,Skip
+0,talk,4,15,COMINGOUT Agent[15] MEDIUM
+0,talk,5,2,Skip
+0,talk,6,12,COMINGOUT Agent[12] SEER
+0,talk,7,11,ESTIMATE Agent[12] SEER
+0,talk,8,4,ESTIMATE Agent[12] SEER
+0,talk,9,10,ESTIMATE Agent[12] SEER
+0,talk,10,7,COMINGOUT Agent[07] SEER
+0,talk,11,13,Over
+0,talk,12,11,Skip
+0,talk,13,15,Over
+0,talk,14,12,Over
+0,talk,15,6,Over
+0,talk,16,10,Skip
+0,talk,17,8,Over
+0,talk,18,9,Over
+0,talk,19,7,Over
+0,talk,20,4,Skip
+0,talk,21,2,Over
+0,talk,22,13,Over
+0,talk,23,7,Over
+0,talk,24,6,Over
+0,talk,25,15,Over
+0,talk,26,11,Over
+0,talk,27,9,Over
+0,talk,28,4,Over
+0,talk,29,8,Over
+0,talk,30,10,Over
+0,talk,31,12,Over
+0,divine,7,15,HUMAN
+1,status,1,WEREWOLF,ALIVE,IPA
+1,status,2,VILLAGER,ALIVE,IPA
+1,status,3,BODYGUARD,ALIVE,IPA
+1,status,4,VILLAGER,ALIVE,IPA
+1,status,5,WEREWOLF,ALIVE,IPA
+1,status,6,VILLAGER,ALIVE,IPA
+1,status,7,SEER,ALIVE,IPA
+1,status,8,VILLAGER,ALIVE,IPA
+1,status,9,VILLAGER,ALIVE,IPA
+1,status,10,VILLAGER,ALIVE,IPA
+1,status,11,VILLAGER,ALIVE,IPA
+1,status,12,POSSESSED,ALIVE,IPA
+1,status,13,VILLAGER,ALIVE,IPA
+1,status,14,WEREWOLF,ALIVE,IPA
+1,status,15,MEDIUM,ALIVE,IPA
+1,talk,0,6,Skip
+1,talk,1,13,Skip
+1,talk,2,15,Over
+1,talk,3,7,DIVINED Agent[15] HUMAN
+1,talk,4,4,Skip
+1,talk,5,11,Skip
+1,talk,6,10,Skip
+1,talk,7,8,Skip
+1,talk,8,12,DIVINED Agent[11] WEREWOLF
+1,talk,9,9,Skip
+1,talk,10,2,Skip
+1,talk,11,7,Over
+1,talk,12,11,ESTIMATE Agent[07] SEER
+1,talk,13,8,Over
+1,talk,14,2,Over
+1,talk,15,9,Over
+1,talk,16,15,Over
+1,talk,17,6,Over
+1,talk,18,4,Over
+1,talk,19,10,Over
+1,talk,20,12,Over
+1,talk,21,13,Over
+1,talk,22,11,Over
+1,talk,23,7,Over
+1,vote,1,6
+1,vote,2,11
+1,vote,3,11
+1,vote,4,11
+1,vote,5,11
+1,vote,6,11
+1,vote,7,14
+1,vote,8,11
+1,vote,9,11
+1,vote,10,11
+1,vote,11,8
+1,vote,12,6
+1,vote,13,11
+1,vote,14,5
+1,vote,15,8
+1,divine,7,1,WEREWOLF
+1,execute,11,VILLAGER
+1,attack,10,true
+2,status,1,WEREWOLF,ALIVE,IPA
+2,status,2,VILLAGER,ALIVE,IPA
+2,status,3,BODYGUARD,ALIVE,IPA
+2,status,4,VILLAGER,ALIVE,IPA
+2,status,5,WEREWOLF,ALIVE,IPA
+2,status,6,VILLAGER,ALIVE,IPA
+2,status,7,SEER,ALIVE,IPA
+2,status,8,VILLAGER,ALIVE,IPA
+2,status,9,VILLAGER,ALIVE,IPA
+2,status,10,VILLAGER,DEAD,IPA
+2,status,11,VILLAGER,DEAD,IPA
+2,status,12,POSSESSED,ALIVE,IPA
+2,status,13,VILLAGER,ALIVE,IPA
+2,status,14,WEREWOLF,ALIVE,IPA
+2,status,15,MEDIUM,ALIVE,IPA
+2,talk,0,6,Skip
+2,talk,1,12,DIVINED Agent[09] HUMAN
+2,talk,2,4,Skip
+2,talk,3,2,Skip
+2,talk,4,7,DIVINED Agent[01] WEREWOLF
+2,talk,5,9,Skip
+2,talk,6,8,Skip
+2,talk,7,13,Skip
+2,talk,8,15,INQUESTED Agent[11] HUMAN
+2,talk,9,4,ESTIMATE Agent[07] SEER
+2,talk,10,12,Over
+2,talk,11,13,ESTIMATE Agent[07] SEER
+2,talk,12,2,ESTIMATE Agent[07] SEER
+2,talk,13,6,ESTIMATE Agent[07] SEER
+2,talk,14,9,ESTIMATE Agent[07] SEER
+2,talk,15,8,ESTIMATE Agent[07] SEER
+2,talk,16,7,Over
+2,talk,17,15,Over
+2,talk,18,12,Over
+2,talk,19,13,Over
+2,talk,20,8,Over
+2,talk,21,4,Over
+2,talk,22,6,Over
+2,talk,23,9,Over
+2,talk,24,2,Over
+2,vote,1,2
+2,vote,2,1
+2,vote,3,6
+2,vote,4,1
+2,vote,5,12
+2,vote,6,1
+2,vote,7,1
+2,vote,8,1
+2,vote,9,1
+2,vote,12,13
+2,vote,13,1
+2,vote,14,8
+2,vote,15,1
+2,divine,7,4,HUMAN
+2,execute,1,WEREWOLF
+2,attack,13,true
+3,status,1,WEREWOLF,DEAD,IPA
+3,status,2,VILLAGER,ALIVE,IPA
+3,status,3,BODYGUARD,ALIVE,IPA
+3,status,4,VILLAGER,ALIVE,IPA
+3,status,5,WEREWOLF,ALIVE,IPA
+3,status,6,VILLAGER,ALIVE,IPA
+3,status,7,SEER,ALIVE,IPA
+3,status,8,VILLAGER,ALIVE,IPA
+3,status,9,VILLAGER,ALIVE,IPA
+3,status,10,VILLAGER,DEAD,IPA
+3,status,11,VILLAGER,DEAD,IPA
+3,status,12,POSSESSED,ALIVE,IPA
+3,status,13,VILLAGER,DEAD,IPA
+3,status,14,WEREWOLF,ALIVE,IPA
+3,status,15,MEDIUM,ALIVE,IPA
+3,talk,0,9,ESTIMATE Agent[07] SEER
+3,talk,1,6,ESTIMATE Agent[07] SEER
+3,talk,2,12,DIVINED Agent[03] HUMAN
+3,talk,3,2,ESTIMATE Agent[07] SEER
+3,talk,4,15,INQUESTED Agent[01] WEREWOLF
+3,talk,5,7,DIVINED Agent[04] HUMAN
+3,talk,6,4,ESTIMATE Agent[07] SEER
+3,talk,7,8,ESTIMATE Agent[07] SEER
+3,talk,8,4,Skip
+3,talk,9,7,Over
+3,talk,10,6,Skip
+3,talk,11,15,Over
+3,talk,12,12,Over
+3,talk,13,9,Skip
+3,talk,14,2,Skip
+3,talk,15,8,Skip
+3,talk,16,4,Over
+3,talk,17,15,Over
+3,talk,18,8,Over
+3,talk,19,6,Over
+3,talk,20,7,Over
+3,talk,21,9,Over
+3,talk,22,12,Over
+3,talk,23,2,Over
+3,vote,2,12
+3,vote,3,14
+3,vote,4,12
+3,vote,5,14
+3,vote,6,12
+3,vote,7,6
+3,vote,8,12
+3,vote,9,12
+3,vote,12,6
+3,vote,14,6
+3,vote,15,3
+3,divine,7,6,HUMAN
+3,execute,12,POSSESSED
+3,attack,6,true
+4,status,1,WEREWOLF,DEAD,IPA
+4,status,2,VILLAGER,ALIVE,IPA
+4,status,3,BODYGUARD,ALIVE,IPA
+4,status,4,VILLAGER,ALIVE,IPA
+4,status,5,WEREWOLF,ALIVE,IPA
+4,status,6,VILLAGER,DEAD,IPA
+4,status,7,SEER,ALIVE,IPA
+4,status,8,VILLAGER,ALIVE,IPA
+4,status,9,VILLAGER,ALIVE,IPA
+4,status,10,VILLAGER,DEAD,IPA
+4,status,11,VILLAGER,DEAD,IPA
+4,status,12,POSSESSED,DEAD,IPA
+4,status,13,VILLAGER,DEAD,IPA
+4,status,14,WEREWOLF,ALIVE,IPA
+4,status,15,MEDIUM,ALIVE,IPA
+4,talk,0,15,INQUESTED Agent[12] HUMAN
+4,talk,1,8,ESTIMATE Agent[07] SEER
+4,talk,2,9,ESTIMATE Agent[07] SEER
+4,talk,3,4,ESTIMATE Agent[07] SEER
+4,talk,4,7,DIVINED Agent[06] HUMAN
+4,talk,5,2,ESTIMATE Agent[07] SEER
+4,talk,6,9,Skip
+4,talk,7,4,Skip
+4,talk,8,8,Skip
+4,talk,9,7,Over
+4,talk,10,2,Skip
+4,talk,11,15,Over
+4,talk,12,4,Over
+4,talk,13,2,Over
+4,talk,14,7,Over
+4,talk,15,9,Over
+4,talk,16,8,Over
+4,vote,2,9
+4,vote,3,9
+4,vote,4,7
+4,vote,5,15
+4,vote,7,9
+4,vote,8,7
+4,vote,9,8
+4,vote,14,4
+4,vote,15,7
+4,divine,7,5,WEREWOLF
+4,execute,9,VILLAGER
+4,attack,2,true
+5,status,1,WEREWOLF,DEAD,IPA
+5,status,2,VILLAGER,DEAD,IPA
+5,status,3,BODYGUARD,ALIVE,IPA
+5,status,4,VILLAGER,ALIVE,IPA
+5,status,5,WEREWOLF,ALIVE,IPA
+5,status,6,VILLAGER,DEAD,IPA
+5,status,7,SEER,ALIVE,IPA
+5,status,8,VILLAGER,ALIVE,IPA
+5,status,9,VILLAGER,DEAD,IPA
+5,status,10,VILLAGER,DEAD,IPA
+5,status,11,VILLAGER,DEAD,IPA
+5,status,12,POSSESSED,DEAD,IPA
+5,status,13,VILLAGER,DEAD,IPA
+5,status,14,WEREWOLF,ALIVE,IPA
+5,status,15,MEDIUM,ALIVE,IPA
+5,talk,0,7,DIVINED Agent[05] WEREWOLF
+5,talk,1,8,ESTIMATE Agent[07] SEER
+5,talk,2,15,INQUESTED Agent[09] HUMAN
+5,talk,3,4,ESTIMATE Agent[07] SEER
+5,talk,4,7,Over
+5,talk,5,4,Skip
+5,talk,6,8,Skip
+5,talk,7,15,Over
+5,talk,8,8,Over
+5,talk,9,4,Over
+5,talk,10,7,Over
+5,vote,3,4
+5,vote,4,5
+5,vote,5,15
+5,vote,7,5
+5,vote,8,5
+5,vote,14,7
+5,vote,15,7
+5,divine,7,3,HUMAN
+5,execute,5,WEREWOLF
+5,attack,4,true
+6,status,1,WEREWOLF,DEAD,IPA
+6,status,2,VILLAGER,DEAD,IPA
+6,status,3,BODYGUARD,ALIVE,IPA
+6,status,4,VILLAGER,DEAD,IPA
+6,status,5,WEREWOLF,DEAD,IPA
+6,status,6,VILLAGER,DEAD,IPA
+6,status,7,SEER,ALIVE,IPA
+6,status,8,VILLAGER,ALIVE,IPA
+6,status,9,VILLAGER,DEAD,IPA
+6,status,10,VILLAGER,DEAD,IPA
+6,status,11,VILLAGER,DEAD,IPA
+6,status,12,POSSESSED,DEAD,IPA
+6,status,13,VILLAGER,DEAD,IPA
+6,status,14,WEREWOLF,ALIVE,IPA
+6,status,15,MEDIUM,ALIVE,IPA
+6,talk,0,15,INQUESTED Agent[05] WEREWOLF
+6,talk,1,7,DIVINED Agent[03] HUMAN
+6,talk,2,8,ESTIMATE Agent[07] SEER
+6,talk,3,15,Over
+6,talk,4,7,Over
+6,talk,5,8,Skip
+6,talk,6,7,Over
+6,talk,7,8,Over
+6,talk,8,15,Over
+6,vote,3,15
+6,vote,7,14
+6,vote,8,14
+6,vote,14,8
+6,vote,15,3
+6,divine,7,14,WEREWOLF
+6,execute,14,WEREWOLF
+7,status,1,WEREWOLF,DEAD,IPA
+7,status,2,VILLAGER,DEAD,IPA
+7,status,3,BODYGUARD,ALIVE,IPA
+7,status,4,VILLAGER,DEAD,IPA
+7,status,5,WEREWOLF,DEAD,IPA
+7,status,6,VILLAGER,DEAD,IPA
+7,status,7,SEER,ALIVE,IPA
+7,status,8,VILLAGER,ALIVE,IPA
+7,status,9,VILLAGER,DEAD,IPA
+7,status,10,VILLAGER,DEAD,IPA
+7,status,11,VILLAGER,DEAD,IPA
+7,status,12,POSSESSED,DEAD,IPA
+7,status,13,VILLAGER,DEAD,IPA
+7,status,14,WEREWOLF,DEAD,IPA
+7,status,15,MEDIUM,ALIVE,IPA
+7,result,4,0,VILLAGER

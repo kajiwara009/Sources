@@ -1,0 +1,76 @@
+/home/tori/prog/wolf/cedec2015final/workspace
+Central_Villager	中村人	jp.ac.cu.hiroshima.info.cm.nakamura.player.NoriRoleAssignPlayer
+GofukuLab	GofukuLab	takata.player.TakataRoleAssignPlayer
+IPA	IPA	ipa.myAgent.IPARoleAssignPlayer
+MegaWolf	働きの悪い村	com.gmail.yusatk.players.RoleAssignPlayer
+Satsuki	Satsuki	org.aiwolf.Satsuki.LearningPlayer.AIWolfMain
+swingby	swingby	kainoueAgent.MyRoleAssignPlayer
+team_fenrir	Team Fenrir	com.gmail.tydmskz.RoleAssignPlayer
+wasabi	wasabi	jp.ac.shibaura_it.ma15082.WasabiRoleAssignPlayer
+canvas	CanvasSoft	com.canvassoft.Agent.CanvasRoleAssignPlayer
+iace10442	iace10442	org.aiwolf.iace10442.ChipRoleAssignPlayer
+itolab	itolab	jp.ac.aitech.k13009kk.aiwolf.client.player.AndoRoleAssignPlayer
+yanagimati	Y・Y	com.gmail.yblueycarlo1967.player.YanagimatiRoleAssignPlayer
+kituneudon	饂飩	jp.halfmoon.inaba.aiwolf.strategyplayer.StrategyPlayer
+lunch_break	昼休みはいつも人狼でつぶれる	com.gmail.octobersky.MyRoleAssignPlayer
+pingwo	平兀	com.github.haretaro.pingwo.role.PingwoRoleAssignPlayer
+Players:15
+games:100
+gameSets:20
+============================================
+Start process:1
+1	0.227
+15 agents
+jp.ac.cu.hiroshima.info.cm.nakamura.player.NoriRoleAssignPlayer	Central_Villager	中村人
+takata.player.TakataRoleAssignPlayer	GofukuLab	GofukuLab
+ipa.myAgent.IPARoleAssignPlayer	IPA	IPA
+com.gmail.yusatk.players.RoleAssignPlayer	MegaWolf	働きの悪い村
+org.aiwolf.Satsuki.LearningPlayer.AIWolfMain	Satsuki	Satsuki
+kainoueAgent.MyRoleAssignPlayer	swingby	swingby
+com.gmail.tydmskz.RoleAssignPlayer	team_fenrir	Team Fenrir
+jp.ac.shibaura_it.ma15082.WasabiRoleAssignPlayer	wasabi	wasabi
+com.canvassoft.Agent.CanvasRoleAssignPlayer	canvas	CanvasSoft
+org.aiwolf.iace10442.ChipRoleAssignPlayer	iace10442	iace10442
+jp.ac.aitech.k13009kk.aiwolf.client.player.AndoRoleAssignPlayer	itolab	itolab
+com.gmail.yblueycarlo1967.player.YanagimatiRoleAssignPlayer	yanagimati	Y・Y
+jp.halfmoon.inaba.aiwolf.strategyplayer.StrategyPlayer	kituneudon	饂飩
+com.gmail.octobersky.MyRoleAssignPlayer	lunch_break	昼休みはいつも人狼でつぶれる
+com.github.haretaro.pingwo.role.PingwoRoleAssignPlayer	pingwo	平兀
+tasks:20
+Finish task 1	0	19	281.055	5339.817	2015/08/21 18:54:14
+Finish task 2	0	18	282.625	2543.625	2015/08/21 18:07:40
+Finish task 3	0	17	282.665	1601.768	2015/08/21 17:51:58
+Finish task 4	0	16	288.045	1152.180	2015/08/21 17:44:33
+Finish task 5	0	15	288.195	864.585	2015/08/21 17:39:46
+Finish task 6	0	14	564.891	1318.079	2015/08/21 17:51:56
+Finish task 7	0	13	566.762	1052.558	2015/08/21 17:47:33
+Finish task 8	0	12	578.576	867.864	2015/08/21 17:44:40
+Finish task 9	0	11	580.058	708.959	2015/08/21 17:42:02
+Finish task 10	0	10	600.760	600.760	2015/08/21 17:40:35
+Finish task 11	0	9	862.294	705.513	2015/08/21 17:46:41
+Finish task 12	0	8	870.013	580.008	2015/08/21 17:44:43
+Finish task 13	0	7	870.639	468.805	2015/08/21 17:42:53
+Finish task 14	0	6	875.348	375.149	2015/08/21 17:41:24
+Finish task 15	0	5	919.741	306.580	2015/08/21 17:41:00
+Finish task 16	0	4	1161.207	290.301	2015/08/21 17:44:45
+Finish task 17	0	3	1166.280	205.814	2015/08/21 17:43:25
+Finish task 18	0	2	1167.970	129.774	2015/08/21 17:42:11
+Finish task 19	0	1	1170.389	61.599	2015/08/21 17:41:05
+Finish task 20	0	0	1187.034	0.000	2015/08/21 17:40:20
+1	饂飩	0.531
+2	wasabi	0.493
+3	Satsuki	0.491
+4	CanvasSoft	0.484
+5	平兀	0.482
+6	働きの悪い村	0.482
+7	IPA	0.480
+8	iace10442	0.479
+9	中村人	0.476
+10	GofukuLab	0.471
+11	Team Fenrir	0.466
+12	Y・Y	0.461
+13	swingby	0.459
+14	itolab	0.457
+15	昼休みはいつも人狼でつぶれる	0.439
+
+Time to finish 1187.639

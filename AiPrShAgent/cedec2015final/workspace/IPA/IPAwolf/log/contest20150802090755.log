@@ -1,0 +1,413 @@
+0,status,1,SEER,ALIVE,IPARoleAssignPlayer
+0,status,2,VILLAGER,ALIVE,IPARoleAssignPlayer
+0,status,3,WEREWOLF,ALIVE,IPARoleAssignPlayer
+0,status,4,WEREWOLF,ALIVE,IPARoleAssignPlayer
+0,status,5,POSSESSED,ALIVE,IPARoleAssignPlayer
+0,status,6,VILLAGER,ALIVE,IPARoleAssignPlayer
+0,status,7,VILLAGER,ALIVE,IPARoleAssignPlayer
+0,status,8,VILLAGER,ALIVE,IPARoleAssignPlayer
+0,status,9,VILLAGER,ALIVE,IPARoleAssignPlayer
+0,status,10,VILLAGER,ALIVE,IPARoleAssignPlayer
+0,status,11,MEDIUM,ALIVE,IPARoleAssignPlayer
+0,status,12,BODYGUARD,ALIVE,IPARoleAssignPlayer
+0,status,13,VILLAGER,ALIVE,IPARoleAssignPlayer
+0,status,14,VILLAGER,ALIVE,IPARoleAssignPlayer
+0,status,15,WEREWOLF,ALIVE,IPARoleAssignPlayer
+0,talk,0,4,VOTE Agent[13]
+0,talk,1,9,Over
+0,talk,2,12,VOTE Agent[05]
+0,talk,3,13,Over
+0,talk,4,15,VOTE Agent[12]
+0,talk,5,2,Over
+0,talk,6,5,VOTE Agent[13]
+0,talk,7,14,Over
+0,talk,8,8,Over
+0,talk,9,6,Over
+0,talk,10,11,VOTE Agent[08]
+0,talk,11,7,Over
+0,talk,12,3,VOTE Agent[13]
+0,talk,13,10,Over
+0,talk,14,1,COMINGOUT Agent[01] SEER
+0,whisper,0,4,Over
+0,whisper,1,15,Over
+0,whisper,2,3,Over
+0,talk,15,12,Over
+0,talk,16,14,ESTIMATE Agent[01] SEER
+0,talk,17,4,Over
+0,talk,18,5,VOTE Agent[01]
+0,talk,19,2,ESTIMATE Agent[01] SEER
+0,talk,20,11,Over
+0,talk,21,8,ESTIMATE Agent[01] SEER
+0,talk,22,13,ESTIMATE Agent[01] SEER
+0,talk,23,9,ESTIMATE Agent[01] SEER
+0,talk,24,3,Over
+0,talk,25,1,Over
+0,talk,26,6,ESTIMATE Agent[01] SEER
+0,talk,27,15,Over
+0,talk,28,10,ESTIMATE Agent[01] SEER
+0,talk,29,7,ESTIMATE Agent[01] SEER
+0,whisper,3,15,Over
+0,whisper,4,3,Over
+0,whisper,5,4,Over
+0,talk,30,5,Over
+0,talk,31,12,Over
+0,talk,32,13,ESTIMATE Agent[01] SEER
+0,talk,33,8,ESTIMATE Agent[01] SEER
+0,talk,34,3,Over
+0,talk,35,7,ESTIMATE Agent[01] SEER
+0,talk,36,6,ESTIMATE Agent[01] SEER
+0,talk,37,2,ESTIMATE Agent[01] SEER
+0,talk,38,11,Over
+0,talk,39,9,ESTIMATE Agent[01] SEER
+0,talk,40,14,ESTIMATE Agent[01] SEER
+0,talk,41,10,ESTIMATE Agent[01] SEER
+0,talk,42,4,Over
+0,talk,43,1,Over
+0,talk,44,15,Over
+0,whisper,6,15,Over
+0,whisper,7,3,Over
+0,whisper,8,4,Over
+0,talk,45,5,Over
+0,talk,46,2,ESTIMATE Agent[01] SEER
+0,talk,47,9,ESTIMATE Agent[01] SEER
+0,talk,48,3,Over
+0,talk,49,13,ESTIMATE Agent[01] SEER
+0,talk,50,6,ESTIMATE Agent[01] SEER
+0,talk,51,12,Over
+0,talk,52,10,ESTIMATE Agent[01] SEER
+0,talk,53,7,ESTIMATE Agent[01] SEER
+0,talk,54,8,ESTIMATE Agent[01] SEER
+0,talk,55,11,Over
+0,talk,56,14,ESTIMATE Agent[01] SEER
+0,talk,57,1,Over
+0,talk,58,4,Over
+0,talk,59,15,Over
+0,whisper,9,15,Over
+0,whisper,10,4,Over
+0,whisper,11,3,Over
+0,talk,60,12,Over
+0,talk,61,11,Over
+0,talk,62,8,ESTIMATE Agent[01] SEER
+0,talk,63,14,ESTIMATE Agent[01] SEER
+0,talk,64,7,ESTIMATE Agent[01] SEER
+0,talk,65,3,Over
+0,talk,66,2,ESTIMATE Agent[01] SEER
+0,talk,67,10,ESTIMATE Agent[01] SEER
+0,talk,68,13,ESTIMATE Agent[01] SEER
+0,talk,69,6,ESTIMATE Agent[01] SEER
+0,talk,70,5,Over
+0,talk,71,9,ESTIMATE Agent[01] SEER
+0,talk,72,1,Over
+0,talk,73,4,Over
+0,talk,74,15,Over
+0,whisper,12,15,Over
+0,whisper,13,4,Over
+0,whisper,14,3,Over
+0,talk,75,2,ESTIMATE Agent[01] SEER
+0,talk,76,13,ESTIMATE Agent[01] SEER
+0,talk,77,8,ESTIMATE Agent[01] SEER
+0,talk,78,3,Over
+0,talk,79,5,Over
+0,talk,80,11,Over
+0,talk,81,10,ESTIMATE Agent[01] SEER
+0,talk,82,14,ESTIMATE Agent[01] SEER
+0,talk,83,6,ESTIMATE Agent[01] SEER
+0,talk,84,7,ESTIMATE Agent[01] SEER
+0,talk,85,9,ESTIMATE Agent[01] SEER
+0,talk,86,12,Over
+0,talk,87,1,Over
+0,talk,88,4,Over
+0,talk,89,15,Over
+0,whisper,15,15,Over
+0,whisper,16,4,Over
+0,whisper,17,3,Over
+0,talk,90,5,Over
+0,talk,91,3,Over
+0,talk,92,2,ESTIMATE Agent[01] SEER
+0,talk,93,10,ESTIMATE Agent[01] SEER
+0,talk,94,6,ESTIMATE Agent[01] SEER
+0,talk,95,14,ESTIMATE Agent[01] SEER
+0,talk,96,7,ESTIMATE Agent[01] SEER
+0,talk,97,13,ESTIMATE Agent[01] SEER
+0,talk,98,8,ESTIMATE Agent[01] SEER
+0,talk,99,9,ESTIMATE Agent[01] SEER
+0,talk,100,11,Over
+0,talk,101,1,Over
+0,talk,102,4,Over
+0,talk,103,12,Over
+0,talk,104,15,Over
+0,whisper,18,3,Over
+0,whisper,19,4,Over
+0,whisper,20,15,Over
+0,talk,105,8,ESTIMATE Agent[01] SEER
+0,talk,106,10,ESTIMATE Agent[01] SEER
+0,talk,107,2,ESTIMATE Agent[01] SEER
+0,talk,108,6,ESTIMATE Agent[01] SEER
+0,talk,109,9,ESTIMATE Agent[01] SEER
+0,talk,110,3,Over
+0,talk,111,5,Over
+0,talk,112,13,ESTIMATE Agent[01] SEER
+0,talk,113,7,ESTIMATE Agent[01] SEER
+0,talk,114,14,ESTIMATE Agent[01] SEER
+0,talk,115,1,Over
+0,talk,116,4,Over
+0,talk,117,11,Over
+0,talk,118,12,Over
+0,talk,119,15,Over
+0,whisper,21,15,Over
+0,whisper,22,4,Over
+0,whisper,23,3,Over
+0,talk,120,7,ESTIMATE Agent[01] SEER
+0,talk,121,9,ESTIMATE Agent[01] SEER
+0,talk,122,6,ESTIMATE Agent[01] SEER
+0,talk,123,2,ESTIMATE Agent[01] SEER
+0,talk,124,8,ESTIMATE Agent[01] SEER
+0,talk,125,13,ESTIMATE Agent[01] SEER
+0,talk,126,3,Over
+0,talk,127,10,ESTIMATE Agent[01] SEER
+0,talk,128,14,ESTIMATE Agent[01] SEER
+0,talk,129,5,Over
+0,talk,130,1,Over
+0,talk,131,4,Over
+0,talk,132,11,Over
+0,talk,133,12,Over
+0,talk,134,15,Over
+0,whisper,24,3,Over
+0,whisper,25,4,Over
+0,whisper,26,15,Over
+0,talk,135,8,ESTIMATE Agent[01] SEER
+0,talk,136,7,ESTIMATE Agent[01] SEER
+0,talk,137,13,ESTIMATE Agent[01] SEER
+0,talk,138,3,Over
+0,talk,139,9,ESTIMATE Agent[01] SEER
+0,talk,140,6,ESTIMATE Agent[01] SEER
+0,talk,141,14,ESTIMATE Agent[01] SEER
+0,talk,142,10,ESTIMATE Agent[01] SEER
+0,talk,143,2,ESTIMATE Agent[01] SEER
+0,talk,144,1,Over
+0,talk,145,4,Over
+0,talk,146,5,Over
+0,talk,147,11,Over
+0,talk,148,12,Over
+0,talk,149,15,Over
+0,whisper,27,15,Over
+0,whisper,28,4,Over
+0,whisper,29,3,Over
+0,divine,1,10,HUMAN
+1,status,1,SEER,ALIVE,IPARoleAssignPlayer
+1,status,2,VILLAGER,ALIVE,IPARoleAssignPlayer
+1,status,3,WEREWOLF,ALIVE,IPARoleAssignPlayer
+1,status,4,WEREWOLF,ALIVE,IPARoleAssignPlayer
+1,status,5,POSSESSED,ALIVE,IPARoleAssignPlayer
+1,status,6,VILLAGER,ALIVE,IPARoleAssignPlayer
+1,status,7,VILLAGER,ALIVE,IPARoleAssignPlayer
+1,status,8,VILLAGER,ALIVE,IPARoleAssignPlayer
+1,status,9,VILLAGER,ALIVE,IPARoleAssignPlayer
+1,status,10,VILLAGER,ALIVE,IPARoleAssignPlayer
+1,status,11,MEDIUM,ALIVE,IPARoleAssignPlayer
+1,status,12,BODYGUARD,ALIVE,IPARoleAssignPlayer
+1,status,13,VILLAGER,ALIVE,IPARoleAssignPlayer
+1,status,14,VILLAGER,ALIVE,IPARoleAssignPlayer
+1,status,15,WEREWOLF,ALIVE,IPARoleAssignPlayer
+1,talk,0,14,ESTIMATE Agent[01] SEER
+1,talk,1,13,ESTIMATE Agent[01] SEER
+1,talk,2,3,VOTE Agent[06]
+1,talk,3,7,ESTIMATE Agent[01] SEER
+1,talk,4,12,VOTE Agent[08]
+1,talk,5,8,ESTIMATE Agent[01] SEER
+1,talk,6,2,ESTIMATE Agent[01] SEER
+1,talk,7,1,DIVINED Agent[10] HUMAN
+1,talk,8,15,VOTE Agent[13]
+1,talk,9,10,ESTIMATE Agent[01] SEER
+1,talk,10,11,VOTE Agent[02]
+1,talk,11,6,ESTIMATE Agent[01] SEER
+1,talk,12,9,ESTIMATE Agent[01] SEER
+1,talk,13,4,VOTE Agent[14]
+1,talk,14,5,COMINGOUT Agent[05] SEER
+1,whisper,0,4,Over
+1,whisper,1,15,Over
+1,whisper,2,3,Over
+1,talk,15,14,Over
+1,talk,16,10,Over
+1,talk,17,5,DIVINED Agent[14] WEREWOLF
+1,talk,18,7,Over
+1,talk,19,9,Over
+1,talk,20,8,Over
+1,talk,21,3,Over
+1,talk,22,1,Over
+1,talk,23,4,Over
+1,talk,24,6,Over
+1,talk,25,11,VOTE Agent[14]
+1,talk,26,13,Over
+1,talk,27,12,VOTE Agent[14]
+1,talk,28,2,Over
+1,talk,29,15,Over
+1,whisper,3,4,Over
+1,whisper,4,15,Over
+1,whisper,5,3,Over
+1,talk,30,11,Over
+1,talk,31,1,Over
+1,talk,32,12,Over
+1,talk,33,4,Over
+1,talk,34,8,Over
+1,talk,35,9,Over
+1,talk,36,7,Over
+1,talk,37,14,ESTIMATE Agent[01] SEER
+1,talk,38,6,Over
+1,talk,39,10,Over
+1,talk,40,13,Over
+1,talk,41,3,Over
+1,talk,42,5,VOTE Agent[01]
+1,talk,43,2,Over
+1,talk,44,15,Over
+1,whisper,6,4,Over
+1,whisper,7,3,Over
+1,whisper,8,15,Over
+1,talk,45,8,Over
+1,talk,46,5,Over
+1,talk,47,3,Over
+1,talk,48,4,Over
+1,talk,49,13,Over
+1,talk,50,6,Over
+1,talk,51,12,Over
+1,talk,52,11,Over
+1,talk,53,10,Over
+1,talk,54,1,Over
+1,talk,55,7,Over
+1,talk,56,9,Over
+1,talk,57,14,ESTIMATE Agent[01] SEER
+1,talk,58,2,Over
+1,talk,59,15,Over
+1,whisper,9,3,Over
+1,whisper,10,15,Over
+1,whisper,11,4,Over
+1,talk,60,10,Over
+1,talk,61,6,Over
+1,talk,62,11,Over
+1,talk,63,5,Over
+1,talk,64,9,Over
+1,talk,65,8,Over
+1,talk,66,3,Over
+1,talk,67,12,Over
+1,talk,68,7,Over
+1,talk,69,13,Over
+1,talk,70,14,ESTIMATE Agent[01] SEER
+1,talk,71,1,Over
+1,talk,72,4,Over
+1,talk,73,2,Over
+1,talk,74,15,Over
+1,whisper,12,3,Over
+1,whisper,13,4,Over
+1,whisper,14,15,Over
+1,talk,75,13,Over
+1,talk,76,6,Over
+1,talk,77,7,Over
+1,talk,78,11,Over
+1,talk,79,9,Over
+1,talk,80,10,Over
+1,talk,81,8,Over
+1,talk,82,14,ESTIMATE Agent[01] SEER
+1,talk,83,12,Over
+1,talk,84,5,Over
+1,talk,85,3,Over
+1,talk,86,1,Over
+1,talk,87,2,Over
+1,talk,88,4,Over
+1,talk,89,15,Over
+1,whisper,15,3,Over
+1,whisper,16,15,Over
+1,whisper,17,4,Over
+1,talk,90,14,ESTIMATE Agent[01] SEER
+1,talk,91,11,Over
+1,talk,92,13,Over
+1,talk,93,10,Over
+1,talk,94,7,Over
+1,talk,95,6,Over
+1,talk,96,9,Over
+1,talk,97,8,Over
+1,talk,98,1,Over
+1,talk,99,2,Over
+1,talk,100,3,Over
+1,talk,101,4,Over
+1,talk,102,5,Over
+1,talk,103,12,Over
+1,talk,104,15,Over
+1,whisper,18,15,Over
+1,whisper,19,3,Over
+1,whisper,20,4,Over
+1,talk,105,14,ESTIMATE Agent[01] SEER
+1,talk,106,1,Over
+1,talk,107,2,Over
+1,talk,108,3,Over
+1,talk,109,4,Over
+1,talk,110,5,Over
+1,talk,111,6,Over
+1,talk,112,7,Over
+1,talk,113,8,Over
+1,talk,114,9,Over
+1,talk,115,10,Over
+1,talk,116,11,Over
+1,talk,117,12,Over
+1,talk,118,13,Over
+1,talk,119,15,Over
+1,whisper,21,15,Over
+1,whisper,22,4,Over
+1,whisper,23,3,Over
+1,talk,120,14,ESTIMATE Agent[01] SEER
+1,talk,121,1,Over
+1,talk,122,2,Over
+1,talk,123,3,Over
+1,talk,124,4,Over
+1,talk,125,5,Over
+1,talk,126,6,Over
+1,talk,127,7,Over
+1,talk,128,8,Over
+1,talk,129,9,Over
+1,talk,130,10,Over
+1,talk,131,11,Over
+1,talk,132,12,Over
+1,talk,133,13,Over
+1,talk,134,15,Over
+1,whisper,24,4,Over
+1,whisper,25,3,Over
+1,whisper,26,15,Over
+1,talk,135,14,ESTIMATE Agent[01] SEER
+1,talk,136,1,Over
+1,talk,137,2,Over
+1,talk,138,3,Over
+1,talk,139,4,Over
+1,talk,140,5,Over
+1,talk,141,6,Over
+1,talk,142,7,Over
+1,talk,143,8,Over
+1,talk,144,9,Over
+1,talk,145,10,Over
+1,talk,146,11,Over
+1,talk,147,12,Over
+1,talk,148,13,Over
+1,talk,149,15,Over
+1,whisper,27,4,Over
+1,whisper,28,3,Over
+1,whisper,29,15,Over
+1,vote,1,8
+1,vote,2,5
+1,vote,3,6
+1,vote,4,14
+1,vote,5,1
+1,vote,6,10
+1,vote,7,15
+1,vote,8,13
+1,vote,9,11
+1,vote,10,6
+1,vote,11,14
+1,vote,12,14
+1,vote,13,5
+1,vote,14,5
+1,vote,15,13
+1,divine,1,8,HUMAN
+1,guard,12,2,VILLAGER
+1,attackVote,3,1
+1,attackVote,4,1
+1,attackVote,15,1
+1,execute,14,VILLAGER
+1,attack,1,true

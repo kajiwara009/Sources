@@ -1,0 +1,108 @@
+0,status,1,VILLAGER,ALIVE,SampleRoleAssignPlayer
+0,status,2,VILLAGER,ALIVE,SampleRoleAssignPlayer
+0,status,3,POSSESSED,ALIVE,SampleRoleAssignPlayer
+0,status,4,SEER,ALIVE,MyRoleAssignPlayer
+0,status,5,BODYGUARD,ALIVE,SampleRoleAssignPlayer
+0,status,6,VILLAGER,ALIVE,SampleRoleAssignPlayer
+0,status,7,VILLAGER,ALIVE,SampleRoleAssignPlayer
+0,status,8,WEREWOLF,ALIVE,SampleRoleAssignPlayer
+0,status,9,VILLAGER,ALIVE,SampleRoleAssignPlayer
+0,status,10,MEDIUM,ALIVE,SampleRoleAssignPlayer
+0,status,11,WEREWOLF,ALIVE,SampleRoleAssignPlayer
+0,talk,0,5,VOTE Agent[03]
+0,talk,1,2,VOTE Agent[09]
+0,talk,2,9,VOTE Agent[03]
+0,talk,3,4,VOTE Agent[03]
+0,talk,4,1,VOTE Agent[04]
+0,talk,5,7,VOTE Agent[05]
+0,talk,6,3,VOTE Agent[04]
+0,talk,7,6,VOTE Agent[04]
+0,talk,8,11,VOTE Agent[10]
+0,talk,9,8,VOTE Agent[01]
+0,talk,10,10,VOTE Agent[03]
+0,whisper,0,8,Over
+0,whisper,1,11,Over
+0,talk,11,2,Over
+0,talk,12,1,Over
+0,talk,13,7,Over
+0,talk,14,9,Over
+0,talk,15,3,Over
+0,talk,16,5,Over
+0,talk,17,8,Over
+0,talk,18,6,Over
+0,talk,19,4,Over
+0,talk,20,10,Over
+0,talk,21,11,Over
+0,whisper,2,8,Over
+0,whisper,3,11,Over
+0,divine,4,8,WEREWOLF
+1,status,1,VILLAGER,ALIVE,SampleRoleAssignPlayer
+1,status,2,VILLAGER,ALIVE,SampleRoleAssignPlayer
+1,status,3,POSSESSED,ALIVE,SampleRoleAssignPlayer
+1,status,4,SEER,ALIVE,MyRoleAssignPlayer
+1,status,5,BODYGUARD,ALIVE,SampleRoleAssignPlayer
+1,status,6,VILLAGER,ALIVE,SampleRoleAssignPlayer
+1,status,7,VILLAGER,ALIVE,SampleRoleAssignPlayer
+1,status,8,WEREWOLF,ALIVE,SampleRoleAssignPlayer
+1,status,9,VILLAGER,ALIVE,SampleRoleAssignPlayer
+1,status,10,MEDIUM,ALIVE,SampleRoleAssignPlayer
+1,status,11,WEREWOLF,ALIVE,SampleRoleAssignPlayer
+1,talk,0,7,VOTE Agent[01]
+1,talk,1,8,VOTE Agent[10]
+1,talk,2,6,VOTE Agent[01]
+1,talk,3,9,VOTE Agent[07]
+1,talk,4,2,VOTE Agent[10]
+1,talk,5,11,VOTE Agent[10]
+1,talk,6,4,COMINGOUT Agent[04] SEER
+1,talk,7,10,VOTE Agent[03]
+1,talk,8,1,VOTE Agent[07]
+1,talk,9,3,VOTE Agent[07]
+1,talk,10,5,VOTE Agent[08]
+1,whisper,0,8,Over
+1,whisper,1,11,Over
+1,talk,11,10,Over
+1,talk,12,7,Over
+1,talk,13,8,VOTE Agent[04]
+1,talk,14,4,INQUESTED Agent[08] WEREWOLF
+1,talk,15,5,Over
+1,talk,16,9,Over
+1,talk,17,11,Over
+1,talk,18,6,Over
+1,talk,19,1,Over
+1,talk,20,3,Over
+1,talk,21,2,Over
+1,whisper,2,11,Over
+1,whisper,3,8,Over
+1,talk,22,4,VOTE Agent[08]
+1,talk,23,8,Over
+1,talk,24,10,Over
+1,talk,25,7,Over
+1,talk,26,1,Over
+1,talk,27,2,Over
+1,talk,28,3,Over
+1,talk,29,5,Over
+1,talk,30,6,Over
+1,talk,31,9,Over
+1,talk,32,11,Over
+1,whisper,4,11,Over
+1,whisper,5,8,Over
+1,talk,33,4,Over
+1,whisper,6,8,Over
+1,whisper,7,11,Over
+1,vote,1,7
+1,vote,2,10
+1,vote,3,7
+1,vote,4,8
+1,vote,5,8
+1,vote,6,1
+1,vote,7,1
+1,vote,8,4
+1,vote,9,7
+1,vote,10,3
+1,vote,11,10
+1,divine,4,11,WEREWOLF
+1,guard,5,11,WEREWOLF
+1,attackVote,8,4
+1,attackVote,11,4
+1,execute,7,VILLAGER
+1,attack,4,true

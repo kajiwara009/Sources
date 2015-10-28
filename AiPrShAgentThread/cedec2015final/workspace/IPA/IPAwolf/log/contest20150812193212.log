@@ -1,0 +1,38 @@
+0,status,1,VILLAGER,ALIVE,IPA
+0,status,2,SEER,ALIVE,IPA
+0,status,3,VILLAGER,ALIVE,IPA
+0,status,4,POSSESSED,ALIVE,IPA
+0,status,5,BODYGUARD,ALIVE,IPA
+0,status,6,VILLAGER,ALIVE,IPA
+0,status,7,WEREWOLF,ALIVE,IPA
+0,status,8,VILLAGER,ALIVE,IPA
+0,status,9,VILLAGER,ALIVE,IPA
+0,status,10,WEREWOLF,ALIVE,IPA
+0,status,11,VILLAGER,ALIVE,IPA
+0,status,12,MEDIUM,ALIVE,IPA
+0,status,13,VILLAGER,ALIVE,IPA
+0,status,14,WEREWOLF,ALIVE,IPA
+0,status,15,VILLAGER,ALIVE,IPA
+0,talk,0,13,Skip
+0,talk,1,6,Skip
+0,talk,2,8,Skip
+0,talk,3,15,Skip
+0,talk,4,4,COMINGOUT Agent[04] SEER
+0,talk,5,2,COMINGOUT Agent[02] SEER
+0,talk,6,9,Skip
+0,talk,7,12,COMINGOUT Agent[12] MEDIUM
+0,talk,8,11,Skip
+0,talk,9,1,Skip
+0,talk,10,3,Skip
+0,talk,11,12,Over
+0,talk,12,1,Over
+0,talk,13,6,Over
+0,talk,14,8,Over
+0,talk,15,13,Over
+0,talk,16,11,Over
+0,talk,17,15,Over
+0,talk,18,3,Over
+0,talk,19,2,Over
+0,talk,20,4,Over
+0,talk,21,9,Over
+0,divine,2,8,HUMAN

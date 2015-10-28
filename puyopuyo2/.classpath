@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/pleiades/workspace/puyopuyoVer/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="UsuiPlayerLv1.jar"/>
+	<classpathentry kind="lib" path="asakura.jar"/>
+	<classpathentry kind="lib" path="guava-12.0.jar"/>
+	<classpathentry kind="lib" path="HisanoPlayer.jar"/>
+	<classpathentry kind="lib" path="iwatsuki0523.jar"/>
+	<classpathentry kind="lib" path="KaiPlayer.jar"/>
+	<classpathentry kind="lib" path="ohashi.jar"/>
+	<classpathentry kind="lib" path="OhataPlayer.jar"/>
+	<classpathentry kind="lib" path="puyo-player-assembly-1.0.0.jar"/>
+	<classpathentry kind="lib" path="suzuki.jar"/>
+	<classpathentry kind="lib" path="TakechiPlayer.jar"/>
+	<classpathentry kind="lib" path="tanoue.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
